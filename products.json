@@ -1,0 +1,10 @@
+{
+    "products": [
+    { "name": "Baseball Theme Shirt", "price": 52.00 },
+    { "name": "Phone Casing", "price": 9.90 },
+    { "name": "Nike Air Force Ones", "price": 469.00 },
+    { "name": "Crossbody Bag", "price": 21.00 },
+    { "name": "Queen Sized Bedsheet", "price": 169.90 },
+    { "name": "Retro Shoulder Bag", "price": 76.90 }
+  ]
+}
