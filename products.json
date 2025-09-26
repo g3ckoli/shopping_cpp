@@ -1,10 +1,40 @@
 {
     "products": [
-    { "name": "Baseball Theme Shirt", "price": 52.00 },
-    { "name": "Phone Casing", "price": 9.90 },
-    { "name": "Nike Air Force Ones", "price": 469.00 },
-    { "name": "Crossbody Bag", "price": 21.00 },
-    { "name": "Queen Sized Bedsheet", "price": 169.90 },
-    { "name": "Retro Shoulder Bag", "price": 76.90 }
-  ]
+        {
+            "id": 1,
+            "name": "Baseball Theme Shirt",
+            "price": 52.0,
+            "stock": 20
+        },
+        {
+            "id": 2,
+            "name": "Phone Casing",
+            "price": 9.9,
+            "stock": 30
+        },
+        {
+            "id": 3,
+            "name": "Nike Air Force Ones",
+            "price": 469.0,
+            "stock": 10
+        },
+        {
+            "id": 4,
+            "name": "Crossbody Bag",
+            "price": 21.0,
+            "stock": 20
+        },
+        {
+            "id": 5,
+            "name": "Queen Sized Bedsheet",
+            "price": 169.9,
+            "stock": 20
+        },
+        {
+            "id": 6,
+            "name": "Retro Shoulder Bag",
+            "price": 76.9,
+            "stock": 10
+        }
+    ]
 }
